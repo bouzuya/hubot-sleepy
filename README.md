@@ -2,6 +2,8 @@
 
 A Hubot script for being sleepy
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140909/20140909000616.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-sleepy.git
